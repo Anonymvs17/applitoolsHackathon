@@ -1,0 +1,22 @@
+{
+  "name": "fashion",
+  "version": "1.0.0",
+  "description": "Tradiontal approach",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Anonymvs17/applitoolsHackathon.git"
+  },
+  "author": "Boris Arapovic",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Anonymvs17/applitoolsHackathon/issues"
+  },
+  "homepage": "https://github.com/Anonymvs17/applitoolsHackathon#readme",
+  "dependencies": {
+    "cypress": "^4.9.0"
+  }
+}
